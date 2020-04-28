@@ -1,0 +1,1 @@
+Revue des exercices Ruby fait en peer programming le mardi 7 avril de l'an de grace 2020 dans le cadre de la formation de The Hacking Project.

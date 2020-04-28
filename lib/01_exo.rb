@@ -1,0 +1,1 @@
+puts "Bonjour, f@%$*ng monde !"
